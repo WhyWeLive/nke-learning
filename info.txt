@@ -1,2 +1,3 @@
 name: task1
 desc: abracadabra
+version: 1.0.0.0
